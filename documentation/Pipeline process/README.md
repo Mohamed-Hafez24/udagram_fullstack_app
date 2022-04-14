@@ -25,7 +25,7 @@
   5. Test that pipeline is working.
 
 
-#### `>>` CircleCI Badge: [![CircleCI](https://circleci.com/gh/Mohamed-Hafez24/udagram_fullstack_web_app.svg?style=shield&circle-token=<8c087ca8a31237fed9ee4a847cb7ff7e4b02f349>)](https://app.circleci.com/pipelines/github/Mohamed-Hafez24/udagram_fullstack_web_app/2/workflows/3c06d4d9-0769-4aa6-8f5e-369e7ac948d7/jobs/3)
+#### `>>` CircleCI Badge: [![CircleCI](https://circleci.com/gh/Mohamed-Hafez24/udagram_fullstack_app.svg?style=shield&circle-token=<02b741c98c54a54073ebafd8a3fa5d4cfa893b38>)](https://app.circleci.com/pipelines/github/Mohamed-Hafez24/udagram_fullstack_app/2/workflows/d01ae900-8aee-49a4-9ab3-35c05c648ca1/jobs/3)
 
 
 #### `-` ___I created a pipeline diagram to show the whole lifecycle of the depployment and building a pipline.___

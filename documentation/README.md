@@ -1,5 +1,5 @@
 # Hosting a Full-Stack Application
-[![CircleCI](https://circleci.com/gh/Mohamed-Hafez24/udagram_fullstack_web_app.svg?style=shield&circle-token=<8c087ca8a31237fed9ee4a847cb7ff7e4b02f349>)](https://app.circleci.com/pipelines/github/Mohamed-Hafez24/udagram_fullstack_web_app/2/workflows/3c06d4d9-0769-4aa6-8f5e-369e7ac948d7/jobs/3)
+[![CircleCI](https://circleci.com/gh/Mohamed-Hafez24/udagram_fullstack_app.svg?style=shield&circle-token=<02b741c98c54a54073ebafd8a3fa5d4cfa893b38>)](https://app.circleci.com/pipelines/github/Mohamed-Hafez24/udagram_fullstack_app/2/workflows/d01ae900-8aee-49a4-9ab3-35c05c648ca1/jobs/3)
 
 ### Used Project for deployment is : `Udagram starter code provided by Udacity`.
 
@@ -20,7 +20,7 @@
 
 
 ### Links
-* The project repository on github which is linked to circleci, Go To => [`https://github.com/Mohamed-Hafez24/udagram_fullstack_web_app`](https://github.com/Mohamed-Hafez24/udagram_fullstack_web_app)
+* The project repository on github which is linked to circleci, Go To => [`https://github.com/Mohamed-Hafez24/udagram_fullstack_app`](https://github.com/Mohamed-Hafez24/udagram_fullstack_web_app)
 * The app is accessible via this link, Go To => [`http://udagram-front-app.s3-website-us-east-1.amazonaws.com/`](http://udagram-front-app.s3-website-us-east-1.amazonaws.com/) .
 > *NOTE <br> make sure you are using a browser that doesn't enforce CORS policys or blocking the user of the EB aws URL by the S3 URL.
 > For running chrome without cors, please check this: `https://alfilatov.com/posts/run-chrome-without-cars/`
