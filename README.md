@@ -1,4 +1,6 @@
-# Udagram
+# Udagram 
+[![CircleCI](https://circleci.com/gh/Mohamed-Hafez24/udagram_fullstack_app.svg?style=shield&circle-token=<02b741c98c54a54073ebafd8a3fa5d4cfa893b38>)](https://app.circleci.com/pipelines/github/Mohamed-Hafez24/udagram_fullstack_app/2/workflows/d01ae900-8aee-49a4-9ab3-35c05c648ca1/jobs/3)
+
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
 
